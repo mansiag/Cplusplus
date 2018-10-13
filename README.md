@@ -1,8 +1,8 @@
 # All about C++
 
-If you are new to git and github, to make your first contributions, visit this: [Hello World](https://github.com/Novice-Paradigm/Hello-World/).
+If you are new to Git and GitHub, to make your first contribution, visit this: [Hello World](https://github.com/Novice-Paradigm/Hello-World/).
 
-### Getting started (for beginners):
+### Getting Started (for Beginners):
 If you prefer reading, then these are some of the curated resources you can refer:
 - [Geeks for Geeks: C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/)
 - [CodesDope: Passion Matters, Not Age](https://www.codesdope.com/cpp-introduction/)
